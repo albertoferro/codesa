@@ -16,7 +16,7 @@
     "react-select": "^3.1.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "http://purosoft.net/buscador/",
+  "homepage": "http://purosoft.net/codesa/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
